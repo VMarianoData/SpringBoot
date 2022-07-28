@@ -13,8 +13,8 @@ public class BSM {
 	
 	public String bsm() {
 		
-		return "-Orientação ao Futuro\n-Renponsabilidade Pessoal\n-Mentalidade de Crescimento\n-Persistência"
-				+ "\n-Trabalho em Equipe\n-Atenção aos Detalhes\n-Proatividade\n-Comunicação";
+		return "-Orientação ao Futuro<br>-Renponsabilidade Pessoal<br>-Mentalidade de Crescimento<br>-Persistência"
+				+ "<br>-Trabalho em Equipe<br>-Atenção aos Detalhes<br>-Proatividade<br>-Comunicação";
 	}
 
 }
